@@ -96,13 +96,3 @@ for i in range(len(parentLayer.GetChildren())):
 print("Batch Print Done")
 
 )
-
-Carmen Rubio Garcia
-Architect ARB
-
-Foster + Partners
-Riverside, 22 Hester Road 
-London SW11 4AN
-crubiogarcia@fosterandpartners.com
-www.fosterandpartners.com
-
